@@ -1,5 +1,5 @@
 
-<a target="_blank" href="http://Computiful.Technology">Computiful</a> | Universal Digital Platform Core Technology
+<a target="_blank" href="http://Computiful.Technology">Computiful</a> | <b>Universal Digital Platform Core Technology<br/>
 
 <div id="content">
 <p>
