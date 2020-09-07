@@ -2,7 +2,7 @@
 <a target="_blank" href="http://Computiful.Technology">Computiful</a> | Digital Platform Technology
 
 <div id="content">
-<div class="header">Universal Core</div>
+  <div class="header"><b>Universal Core</br></div>
 <p>
 We Create High Value At Your <b>Digital Platform</b> And Can <b>Save Your Business Up To Billions</b>.
 </p><p>
