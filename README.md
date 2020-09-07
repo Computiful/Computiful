@@ -1,8 +1,7 @@
 
-<a target="_blank" href="http://Computiful.Technology">Computiful</a> | Digital Platform Technology
+<a target="_blank" href="http://Computiful.Technology">Computiful</a> | Universal Digital Platform Core Technology
 
 <div id="content">
-  <div class="header"><b>Universal Core<br/></div>
 <p>
 We Create High Value At Your <b>Digital Platform</b> And Can <b>Save Your Business Up To Billions</b>.
 </p><p>
