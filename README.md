@@ -1,34 +1,47 @@
 
 <a target="_blank" href="http://Computiful.Technology">Computiful</a> | Digital Platform Technology
 
-<b>Big Impact</b><br/>
-Create Impact At Your Digital Core And Save Your Business Up To Billions.
-
-A Alternative For Any Digital Solution Including New Impacting Digital Cores With Different Powerful Workspaces.
-
-A New And Complete Digital Platform With Deep Technology Innovations As A Direct Plug And Play Alternative For Any Exist Digital Solution And For New Projects At A Complete Integration, Capacity And Cost Flip.
-
-<b>Cloud Core</b><br/>
-A Cloud Server And Services As Plug And Play For Ultra Scale And Full Cost Reduction. A Virtual Cloud For A Global Scaling Infrastructure At Low Cost. Digital Services At A Quantum Environment. Integration And Mangement For A Ideal Digital Landscape.
-
-<b>Software Core</b><br/>
-A Universal Software Platform As A All In One Of Software Languages With A New Ideal General Purpose Language. A Complete Workspace With Full Language And Platform Support. A Best Software Solution Library Framework. A New CPU/Memory Processing Technology With Extrem New Performance. Decentral Cluster Software Integration And Processing For Super Computers At A Complete Flip.
-
-<b>Data Core</b><br/>
-New Data Systems And A Network Core At A Scale Flip. A Process Free Full Data Reduction Novel For Data Stores And Network Transfers As A Huge Advancement For Large Digital Providers.
-
-<b>Visual Core</b><br/>
-A Very Complete Visual Platform For User Interface, Design Interactive And 3D Realities That Create Ideal And Perfect Solutions Within A Wonderful Workspace. At 3D We Introduce A New Technology, A Interactive Visual Creation Intelligence, A Way To Build Interactive Realities Very Directly, It Can Be Also Used By Game And Movie Titles.
-
-<b>Security Core</b><br/>
-A Logical Security Infrastructure Without Default Operational Weakness, Prevent A System From Every Attacker Include A Logical Security Layer At Application, Data, System And Identity.
-
-<b>AI Core</b><br/>
-New Advanced Artifical Intelligence For Information Platforms, Digital Intelligence And Autonomous Robots. A Machine Learning Platform With New Capacity.
-
-<b>Next</b><br/>
+<div id="content">
+<div class="header">Universal Core</div>
+<p>
+We Create High Value At Your <b>Digital Platform</b> And Can <b>Save Your Business Up To Billions</b>.
+</p><p>
+A Alternative For Any Digital Solution Include <b>New Impact Digital Cores At High Qualities</b>.
+</p><p>
+A Complete Digital Platform With Deep Technology Innovations As A <b>Direct Plug And Play Alternative</b> Also For <b>Any Exist Digital Solution</b> At A <b>Complete Soft-Integration, Hard-Capacity And Cost-Flip</b>.
+</p><p>
+General Cloud Service Costs 20x Higher Than A Classical Data Center Environment For Scaling Purpose.
+We <b>Garantee A Pull Of Compute, Data And Network Capacity And Cost Reduction By Factor 50x</b> Through New Advanced Processing Technology.</b>
+</p><p>
+A <b>Universal And Ultra Scale Cloud Server And Services For Plug And Play At A Complete Capacity Pull And Cost Reduction,
+A Virtual Global Scale Infrastructure,
+Digital Services At A Quantum, Multi-Cloud And Data Center Environment And A Digital Landscape Application.</b>
+</p><p>
+We Use A <b>Native Universal Software Platform</b> Of General Software Languages As Plug And Play Infrastructure And Replace Your Code With <b>A New Ideal One For Any System Endpoint</b>.
+<b>A Complete Platform Support And A Best Software Solution Library Framework For Huge Work Time Savings</b>. Also We Introduce A <b>Complete Integration And Processing Flip As A Super Computer Technology</b>.
+</p><p>
+<b>New Data Systems For Unlimited Scale And A Ultra Network Core</b>.
+<b>A Process Free Full Data Reduction Novel For Data Stores And Network Transfers As A Huge Advancement For Large Digital Providers.</b>
+</p><p>
+A <b>Visual Platform For User Interface, Design Interactive And 3D Realities</b> That Create <b>Ideal And Perfect Solutions Very Directly</b>. We Create A <b>Interactive Visual Creation Intelligence And Abstract Geometry Recognition</b> As A Complete Solution Layer For Game/Movie Titles, Connected Cars And Flyings.
+</p><p>
+A <b>Logical Security Infrastructure</b> Without Default Operational Weakness, Prevent A System From Every Attacker Include A Logical Security Layer At Application, Data, System And Identity.
+</p><p>
+<b>Advanced Artifical Intelligence</b> For Super Information Platforms And Human Level Intelligence. 
+</p><p>
+Computiful Is Free For Developers And Can Be Used For Any Digital Solution By Large Digital Services, Technology Service Providers And Digital Agencies As A Premium Technology Product.
+</p>
+<div class="header">Our Future</div>
+<p>
 We Are Successful At Most Ambitioned Technology Ventures From DE/EU/US And We Can Be A New Digital Leader In Future.
+</p>
+<div class="header">About</div>
+<a class="mail" href="mailto:Info@Computiful.Technology">Info@Computiful.Technology</a>
+<div>
+<a target="_blank" href="https://www.linkedin.com/company/computiful/" class="social linkedin" style="margin-right:0.66em;"></a>
+<a target="_blank" href="https://www.facebook.com/computiful.technology/" class="social facebook"></a>
+</div>
+<div class="copy">© 2020 Computiful | <a class="founder" href="https://linkedin.com/in/ms84/">CEO and Technologist</a></div>
+</div>
+</div>
 
-<a href="mailto:Info@Computiful.Technology">Info@Computiful.Technology</a>
- 
-© 2020 Computiful | <a target="_blank" href="https://linkedin.com/in/ms84/">CEO and Technologist</a>
