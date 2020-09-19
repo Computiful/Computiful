@@ -1,5 +1,7 @@
 <a target="_blank" href="http://Computiful.Technology">Computiful</a> | <b>Universal Digital Platform Core.</b>
 
+<b>Insight</b>
+
 Computiful Is A High Value Platform Core That Can Save Your Business Up To Billions In Effort Every Year.
 
 A Complete And Final Alternative For Any New And Already Exist Digital Application Services And Solutions With Very High Advancements.
