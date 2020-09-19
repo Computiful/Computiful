@@ -26,4 +26,4 @@ We Write Nice Software Poems Every Day And Ready To Publish Maybe Within A NEXT 
 
 <a class="mail" target="_blank" href="http://Computiful.Technology">http://Computiful.Technology</a>
 
-<div class="copy">© 2020 Computiful | <a class="founder" href="https://linkedin.com/in/ms84/">CEO and Technologist</a></div>
+<div class="copy">© Computiful 2020 | <a class="founder" href="https://linkedin.com/in/ms84/">CEO and Technologist</a></div>
