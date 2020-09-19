@@ -21,11 +21,13 @@ Advanced Artificial Intelligence At A New Digital Level.
 Computiful Is Free For Developers And Can Be Used For Any Digital Service And Solution Core By Communication/Technology Providers And Digital Tier/Enterprise/Agency As A Premium Technology Product.
 
 <b>Our Future</b>
+
 We Are Successful At Most Ambitioned Technology Ventures From DE/EU/US And Can Be THE Digital Industry Changer In Near Future.
 
 We Write Nice Software Poems Every Day And Ready To Publish Maybe Within A NEXT Quarter.
 
 <b>About</b>
+
 <a class="mail" href="mailto:Hello@Computiful.Technology">Hello@Computiful.Technology</a>
 
 <div class="copy">© 2020 Computiful | <a class="founder" href="https://linkedin.com/in/ms84/">CEO and Technologist</a></div>
