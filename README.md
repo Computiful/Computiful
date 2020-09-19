@@ -23,6 +23,6 @@ We Are Successful At Most Ambitioned Technology Ventures From DE/EU/US And Can B
 
 We Write Nice Software Poems Every Day And Ready To Publish Maybe Within A NEXT Quarter.
 
-<a class="mail" target="_blank" href="http://Computiful.Technology">http://computiful.technology</a>
+<a class="mail" target="_blank" href="http://Computiful.Technology">http://Computiful.Technology</a>
 
 <div class="copy">© 2020 Computiful | <a class="founder" href="https://linkedin.com/in/ms84/">CEO and Technologist</a></div>
