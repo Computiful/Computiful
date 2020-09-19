@@ -19,6 +19,7 @@ Universal Digital Security Without Default Operational Weakness, Prevent A Digit
 Advanced Artificial Intelligence At A New Digital Level.
 
 Computiful Is Free For Developers And Can Be Used For Any Digital Service And Solution Core By Communication/Technology Providers And Digital Tier/Enterprise/Agency As A Premium Technology Product.
+
 We Are Successful At Most Ambitioned Technology Ventures From DE/EU/US And Can Be THE Digital Industry Changer In Near Future.
 
 We Write Nice Software Poems Every Day And Ready To Publish Maybe Within A NEXT Quarter.
