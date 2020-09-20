@@ -14,7 +14,7 @@ Use One Perfect Solution Conversation And Build For Any System Target With A New
 
 Create Directly Perfect Solution With A New Visual Platform For User Interface, Design Interactive And 3D Realities. A General Interactive Visual Creation Intelligence And Abstract Geometry Recognition As A Complete Solution Layer For Game, Movie, Car And Fly.
 
-Universal Digital Security Without Default Operational Weakness, Prevent A Digital Business In Front Of Every Attacker Include As Logical Security Layer At Application, Data, System And Identity.
+Universal Digital Security Without Default Operational Weakness, Prevent A Digital Business In Front Of Every Attacker Include As Logical Security Layer At Application, Data, System, Landscape And Identity.
 
 Advanced Artificial Intelligence At A New Digital Level.
 
