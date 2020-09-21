@@ -12,7 +12,7 @@ Different Cloud Cores At A Single Digital Landscape For Global Scale.
 
 New Software Language And Platform As Solution Conversation, Build For Any Target And High Solution Intelligence. Cluster Integration And Processing As Flip In Super Computing.
 
-User Interface, Design Interactive And 3D Reality, Directly With Perfection. A Solution Layer For Application, Design, Game, Movie, Car, Fly.
+User Interface, Design Interactive And 3D Reality, Directly In Perfection. A Solution Layer For Application, Design, Game, Movie, Car, Fly.
 
 A Logical Security Digital Landscape.
 
